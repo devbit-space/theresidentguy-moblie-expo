@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "elevens",
+    "slug": "elevens",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "scheme": "scheme",
+    "plugins": [
+      [
+        "expo-video",
+        {
+          "supportsBackgroundPlayback": true,
+          "supportsPictureInPicture": true
+        }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow eElevensLabs to access your microphone."
+        }
+      ],
+      [
+        "@react-native-community/datetimepicker",
+        {
+          "androidXOptions": {
+            "lintOptions": {
+              "disable": ["InvalidPackage"]
+            }
+          }
+        }
+      ]
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
