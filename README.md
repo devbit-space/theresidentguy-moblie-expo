@@ -32,6 +32,11 @@ This mobile app allows users to:
 
 ---
 
+## **Screenshots**
+![Interface1](./src/assets/Screenshot (1).png)
+![Interface2](./src/assets/Screenshot (2).png)
+![Interface3](./src/assets/Screenshot (3).png)
+
 ## 🛠 Setup Instructions
 
 ### 1. Clone the Repository
