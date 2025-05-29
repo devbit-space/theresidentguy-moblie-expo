@@ -33,9 +33,9 @@ This mobile app allows users to:
 ---
 
 ## **Screenshots**
-![Interface1](./public/image/readme/Screenshot (1).png)
-![Interface2](./public/image/readme/Screenshot (2).png)
-![Interface3](./public/image/readme/Screenshot (3).png)
+![Interface1](./public/image/readme/Screenshot1.png)
+![Interface2](./public/image/readme/Screenshot2.png)
+![Interface3](./public/image/readme/Screenshot3.png)
 
 ## 🛠 Setup Instructions
 
